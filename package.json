@@ -2,7 +2,7 @@
   "name": "butterfly-strapi",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Content Management System for Butterfly Holistics",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -11,21 +11,21 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "strapi": "3.6.3",
-    "strapi-admin": "3.6.3",
-    "strapi-utils": "3.6.3",
-    "strapi-plugin-content-type-builder": "3.6.3",
-    "strapi-plugin-content-manager": "3.6.3",
-    "strapi-plugin-users-permissions": "3.6.3",
-    "strapi-plugin-email": "3.6.3",
-    "strapi-plugin-upload": "3.6.3",
-    "strapi-plugin-i18n": "3.6.3",
-    "strapi-connector-bookshelf": "3.6.3",
+    "strapi": "3.6.5",
+    "strapi-admin": "3.6.5",
+    "strapi-utils": "3.6.5",
+    "strapi-plugin-content-type-builder": "3.6.5",
+    "strapi-plugin-content-manager": "3.6.5",
+    "strapi-plugin-users-permissions": "3.6.5",
+    "strapi-plugin-email": "3.6.5",
+    "strapi-plugin-upload": "3.6.5",
+    "strapi-plugin-i18n": "3.6.5",
+    "strapi-connector-bookshelf": "3.6.5",
     "knex": "0.21.18",
     "sqlite3": "5.0.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Andrew Smith"
   },
   "strapi": {
     "uuid": "f1b95873-449f-48d6-b428-ea993510a5cb"
