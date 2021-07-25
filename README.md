@@ -1,4 +1,5 @@
-# Strapi application
+# Butterfly Holistics CMS
 
-A quick description of your strapi application
+A Strapi application that enables the creation and management of content for the Butterfly Holistics website.
+
 # butterfly-strapi
